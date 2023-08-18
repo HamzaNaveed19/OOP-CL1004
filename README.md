@@ -4,7 +4,7 @@ This repository contains the source code for the Object-Oriented Programming (OO
 
 ## Description
 
-The OOP Lab Source Code repository is created to store and organize the C++ source code developed for the OOP Lab assignments and projects.
+The OOP Lab Source Code repository is created to store and organize the C++ source code developed for the OOP Labs assignments and projects.
 
 ## Usage
 
