@@ -14,7 +14,7 @@ To use a specific lab assignment or project, navigate to its directory and refer
 
 ## Contributing
 
-This is a private repository, and external contributions are not accepted.
+This is a public repository, and external contributions are not accepted.
 
 ## License
 
