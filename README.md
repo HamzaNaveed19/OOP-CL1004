@@ -1,6 +1,6 @@
 # OOP Lab Source Code
 
-This repository contains the source code for the Object-Oriented Programming (OOP) Lab assignments and projects completed during the semester.
+This  repository contains the source code for the Object-Oriented Programming (OOP) Lab assignments and projects completed during the semester.
 
 ## Description
 
